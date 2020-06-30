@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-social/static/css/main.1f11db91.chunk.css",
+    "main.js": "/react-social/static/js/main.08847ce1.chunk.js",
+    "main.js.map": "/react-social/static/js/main.08847ce1.chunk.js.map",
+    "runtime~main.js": "/react-social/static/js/runtime~main.90a5cb61.js",
+    "runtime~main.js.map": "/react-social/static/js/runtime~main.90a5cb61.js.map",
+    "static/js/2.e9af92f3.chunk.js": "/react-social/static/js/2.e9af92f3.chunk.js",
+    "static/js/2.e9af92f3.chunk.js.map": "/react-social/static/js/2.e9af92f3.chunk.js.map",
+    "index.html": "/react-social/index.html",
+    "precache-manifest.0df33861db68822c3e2c0246b9b85b40.js": "/react-social/precache-manifest.0df33861db68822c3e2c0246b9b85b40.js",
+    "service-worker.js": "/react-social/service-worker.js",
+    "static/css/main.1f11db91.chunk.css.map": "/react-social/static/css/main.1f11db91.chunk.css.map",
+    "static/media/2.svg": "/react-social/static/media/2.11fb1b6b.svg",
+    "static/media/Login.module.css": "/react-social/static/media/bg-image.df1bbd84.jpg",
+    "static/media/user-pic.png": "/react-social/static/media/user-pic.d9673935.png"
+  }
+}
